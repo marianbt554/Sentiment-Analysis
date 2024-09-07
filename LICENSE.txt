@@ -1,0 +1,32 @@
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+   - "License" refers to this document.
+   - "Licensor" refers to the copyright owner or entity authorized by the copyright owner.
+   - "You" (or "Your") means the individual or entity exercising permissions granted by this License.
+   - "Source" form means the preferred form for making modifications.
+   - "Object" form means any form resulting from mechanical transformation or translation.
+
+2. Grant of Copyright License.
+   - You are granted a worldwide, royalty-free, non-exclusive license to use, reproduce, modify, and distribute the software in source or object form.
+
+3. Grant of Patent License.
+   - You are granted a worldwide, royalty-free, non-exclusive license under any patent claims that would be infringed by your use of the software.
+
+4. Redistribution.
+   - You must include a copy of this License in any redistributed software and include a notice stating the changes made to the software.
+
+5. Disclaimer of Warranty.
+   - The software is provided "as-is" without warranties or conditions of any kind.
+
+6. Limitation of Liability.
+   - In no event shall the copyright holder or contributors be liable for any damages.
+
+7. Termination.
+   - This License terminates if you fail to comply with its terms.
+
+END OF TERMS AND CONDITIONS
